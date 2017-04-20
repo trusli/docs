@@ -73,6 +73,7 @@ We provide warnings at 30 days and 7 days before expiration date.  When a licens
  
 _What can I do once RTS is locked (either because my license memory has been exceeded or its expiration date has passed)?_  
 Users can view running applications and enter new license details to unlock RTS. The following capabilities are still accessible:
+
 * Configure - System Configuration is available except for App Data Tracker
 * Configure - License Information is available
 * Configure - Installation Wizard is available
